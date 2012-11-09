@@ -1,0 +1,69 @@
+\\192.168.2.152\Exchange\kiran\m68
+
+***********************************************************************
+http://www.localfm.com/users/login
+gupta09sandeep@gmail.com
+6fy2dqsp
+
+
+Users: http://www.localfm.com/admin/users/login
+login and password should be same
+
+
+
+
+http://www.freegaltest.com/admin/users/login
+sandeep.scs@gmail.com
+Ur68+yC8z4;k
+
+
+
+***********************************************************************
+puneserver.123
+
+************************************************************************
+
+github url 
+https://github.com/m68interactive/FreegalMusic.git
+
+************************************************************************
+
+
+mamcache-
+http://50.56.7.112/phpMemcacheedAdmin/index.php?server=10.176.4.199:11211
+
+*************************************************************************
+
+echo $this->Genre->lastQuery();
+//print_r( $genreAll);
+die;
+
+*************************************************************************
+Skype
+narendra.nagesh44
+puneserver.1234
+
+*************************************************************************
+
+
+
+mysql> SET PROFILING=1;
+mysql> SELECT auth.username, auth.password, meta.secret_word FROM user_auth_1000 auth LEFT JOIN user_meta_1000 meta ON auth.id = meta.uid;
+mysql> SHOW PROFILE FOR QUERY 1;
+
+
+mysql> show create table <tablename>
+mysql> Show index from <tablename>
+
+
+***************************************************************************
+
+EXPLAIN SELECT auth.username,-------
+
+***************************************************************************
+show indexes from user_meta_1000;
+***************************************************************************
+
+Advisory
+
+All Genre > Gangnam Style 
